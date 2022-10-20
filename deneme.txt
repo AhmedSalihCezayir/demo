@@ -1,4 +1,4 @@
 deneme
 deneme 2
 deneme 4
-deneme 7
+deneme 4
