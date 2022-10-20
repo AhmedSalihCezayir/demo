@@ -6,6 +6,7 @@ class Student():
   def say_name(self):
     print("My name is: ", self.name, " and my id is: ", self.id)
     print("Thats all")
+    print("Thats all")
     
   def info_dump_different(self):
     self.say_name()
